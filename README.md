@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mahiiru! 👋
 
-## An innovative IoT Engineer & Full Stack Developer crafting digital solutions from Indonesia 🇮🇩
+## An innovative IoT Engineer & Full Stack Developer from Indonesia 🇮🇩
 
 [![Website](https://img.shields.io/badge/Website-arifbudianto.perumasmandiri.net-blue?style=flat-square&logo=google-chrome)](https://arifbudianto.perumasmandiri.net)
 ![Profile views](https://img.shields.io/badge/Profile%20views-1,084-blue?style=flat-square)
