@@ -4,8 +4,8 @@
 
 ## An innovative IoT Engineer & Full Stack Developer from Indonesia 🇮🇩
 
-[![Website](https://img.shields.io/badge/Website-arifbudianto.perumasmandiri.net-blue?style=flat-square&logo=google-chrome)](https://arifbudianto.perumasmandiri.net)
-![Profile views](https://img.shields.io/badge/Profile%20views-1,084-blue?style=flat-square)
+[![Website](https://img.shields.io/badge/Website-Your_Website-blue?style=flat-square&logo=google-chrome)](https://your-website-url.com)
+![Profile views](https://komarev.com/ghpvc/?username=Mahiiru&style=flat-square&color=blue)
 
 ## IoT Engineer
 
@@ -26,15 +26,15 @@
 ![Total Issues](https://img.shields.io/badge/Total%20Issues-0-red?style=flat-square&logo=github)
 ![Contributed to](https://img.shields.io/badge/Contributed%20to-0-orange?style=flat-square&logo=github)
 
-<!-- Tambahkan circle grade display -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=radical&hide_border=true" width="100%" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Mahiiru&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=radical&hide_border=true" width="100%" />
 
     </td>
     <td valign="top" width="50%">
 
 ### My Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiiru&layout=compact&theme=radical&hide_border=true" width="100%" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-64.40%25-blue?style=flat-square&logo=typescript" />
@@ -60,7 +60,7 @@
         <p><sub>Dec 19, 2018 - Present</sub></p>
       </td>
       <td width="33%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true" alt="Streak Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiiru&theme=radical&hide_border=true" alt="Streak Stats" width="100%" />
         <p>Current Streak</p>
         <p><sub>May 16</sub></p>
       </td>
@@ -118,9 +118,27 @@
         <img src="https://img.shields.io/badge/%3F-Reviews-lightgrey?style=for-the-badge&logo=github" />
         <br />Unknown<br />0pt
       </td>
+      <td align="center" colspan="2">
+        <!-- Placeholder untuk keseimbangan desain -->
+      </td>
     </tr>
   </table>
 </div>
+
+## 🛠️ My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 <!-- Footer -->
 <div align="center">
