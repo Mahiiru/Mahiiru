@@ -21,6 +21,20 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asep-haryana-2014a5294/) | [Twitter](https://twitter.com/asepharyana71) | [Email](mailto:asepharyana71@gmail.com)
 
+## 🐍 Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MythEclipse/MythEclipse/output/snake.svg" alt="Snake animation" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -44,7 +58,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahiiru&theme=radical" alt="GitHub Summary" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahiiru&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahiiru&theme=radical" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahiiru&theme=radical" />
@@ -106,22 +119,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 
 </div>
 
-## 💻 Technologies & Tools (Icon Version)
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -142,19 +139,7 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🐍 Snake Animation
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/MythEclipse/MythEclipse/output/snake.svg" alt="Snake animation" />
-</div>
 
 ## 📫 Connect With Me
 
