@@ -9,7 +9,15 @@
 
 ## An innovative IoT Enginner from Indonesia 🇮🇩
 
-![Profile views](https://komarev.com/ghpvc/?username=Mahiiru&style=flat-square&color=blueviolet)
+## 🌟 Profile Views
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/Mahiiru/count.svg?" alt="Profile views counter" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+</div>
 
 </div>
 
@@ -151,12 +159,4 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
   </a>
 </div>
 
-## 🌟 Profile Views
 
-<div align="center">
-    <img src="https://profile-counter.glitch.me/Mahiiru/count.svg?" alt="Profile views counter" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
-</div>
