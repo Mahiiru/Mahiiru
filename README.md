@@ -24,7 +24,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 
 - 🌱 I'm currently learning advanced Go, C++, JavaScript, HTML, CSS, PHP and IoT Engineer.
 - 💬 Ask me about IoT Engineer, Go, C++ or any tech-related topics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com) | [Email](mailto:nemonicapp@gmail.com)
 
 ## 🐍 Snake Animation
 
