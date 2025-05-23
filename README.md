@@ -7,7 +7,7 @@
 
 # Hi there, I'm Mahiiru! 👋
 
-## An innovative Developer from Indonesia 🇮🇩
+## An innovative IoT Enginner from Indonesia 🇮🇩
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mahiiru&style=flat-square&color=blueviolet)
 
@@ -17,9 +17,9 @@
 
 Hi there! I'm Mahiiru, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
 
-- 🌱 I'm currently learning advanced Go, C++, JavaScript, HTML, CSS, PHP and IoT.
-- 💬 Ask me about web development, JavaScript, or any tech-related topics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asep-haryana-2014a5294/) | [Twitter](https://twitter.com/asepharyana71) | [Email](mailto:asepharyana71@gmail.com)
+- 🌱 I'm currently learning advanced Go, C++, JavaScript, HTML, CSS, PHP and IoT Engineer.
+- 💬 Ask me about IoT Engineer, Go, C++ or any tech-related topics.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com) | [Email](mailto:nemonicapp@gmail.com)
 
 ## 🐍 Snake Animation
 
