@@ -60,16 +60,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiiru&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahiiru&theme=radical" alt="GitHub Summary" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahiiru&theme=radical" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahiiru&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahiiru&theme=radical" />
-</div>
 
 ## 💻 Technical Skills
 
