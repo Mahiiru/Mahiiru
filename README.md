@@ -94,6 +94,28 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 ### UI Framework
 <div>
   <img src="https://img.shields.io/badge/Fyne-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="Fyne"/>
+    <!-- Web Frameworks -->
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin"/>
+<img src="https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Echo"/>
+<img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Fiber"/>
+<img src="https://img.shields.io/badge/Gorilla_Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gorilla Mux"/>
+<!-- GUI Frameworks -->
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+<img src="https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK"/>
+
+<!-- Game Development -->
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+
+<!-- Testing -->
+<img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Test"/>
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/Crow-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Crow"/>
+<img src="https://img.shields.io/badge/Drogon-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Drogon"/>
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GORM"/>
 </div>
 
 ### Operating Systems
