@@ -24,12 +24,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 ## 🐍 Snake Animation
 
 <div align="center">
-  <picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
     <img src="https://raw.githubusercontent.com/MythEclipse/MythEclipse/output/snake.svg" alt="Snake animation" />
 </div>
 
