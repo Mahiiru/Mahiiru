@@ -9,7 +9,6 @@
 
 ## An innovative IoT Enginner from Indonesia 🇮🇩
 
-## 🌟 Profile Views
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/Mahiiru/count.svg?" alt="Profile views counter" />
