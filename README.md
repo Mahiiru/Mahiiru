@@ -1,9 +1,8 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://raw.githubusercontent.com/MythEclipse/MythEclipse/refs/heads/main/kuroyukihime-accel-world.gif" alt="atomic" />
+        <img src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/main/mahiru-shiina.gif" alt="mahiru-shiina" />
     </a>
 </div>
-
 <div align="center">
 
 # Hi there, I'm Mahiiru! 👋
