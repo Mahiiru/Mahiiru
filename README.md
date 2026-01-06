@@ -7,7 +7,7 @@
 
 # Hi there, I'm Mahiiru! 👋
 
-## An innovative IoT Enginner from Indonesia 🇮🇩
+## An innovative IoT Engineer from Indonesia 🇮🇩
 
 
 <div align="center">
