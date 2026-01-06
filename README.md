@@ -10,9 +10,6 @@
 ## An innovative IoT Engineer from Indonesia 🇮🇩
 
 
-<div align="center">
-    <img src="https://profile-counter.glitch.me/Mahiiru/count.svg?" alt="Profile views counter" />
-</div>
 
 
 
@@ -22,10 +19,10 @@
 
 Hi there! I'm Mahiiru, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
 
-- 🌱 I'm currently  advanced Go, C++, JavaScript, HTML, CSS, PHP and IoT Engineer.
-- 💬 Ask me about IoT Engineer, Go, C++ or any tech-related topics.
+-  I'm currently  advanced Go, C++, JavaScript, HTML, CSS, PHP and IoT Engineer.
+-  Ask me about IoT Engineer, Go, C++ or any tech-related topics.
 
-## 🐍 Snake Animation
+##  Snake Animation
 
 <picture>
   <source
@@ -42,23 +39,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
   />
 </picture>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Mahiiru&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiiru&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-
-## 🔤 Most Used Languages
-
-
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiiru&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 
 ## 💻 Technical Skills
@@ -138,26 +118,6 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 </div>
 
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahiiru&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 🛠️ Projects
-
-<!--START_SECTION:projects-->
-<!--END_SECTION:projects-->
-
-## ✍️ Blog Posts
-
-<!-- Replace this section with your actual blog posts section -->
-
-## 🚀 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 
