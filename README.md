@@ -5,9 +5,9 @@
 </div>
 <div align="center">
 
-# Hi there, I'm Mahiiru! 👋
+# Hi there, I'm Mahiiru! 
 
-## An innovative IoT Engineer from Indonesia 🇮🇩
+## An innovative IoT Engineer from Indonesia 
 
 
 
@@ -15,7 +15,7 @@
 
 </div>
 
-## 👋 About Me
+##  About Me
 
 Hi there! I'm Mahiiru, a passionate developer with a love for technology and learning new things. Welcome to my GitHub profile!
 
@@ -41,7 +41,7 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 
 
 
-## 💻 Technical Skills
+##  Technical Skills
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Hi there! I'm Mahiiru, a passionate developer with a love for technology and lea
 
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/asep-haryana-2014a5294/">
