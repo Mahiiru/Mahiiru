@@ -63,10 +63,10 @@ hobbies  : Coding · Tech · Open Source
 
 ---
 
-## 👁️ Profile Views
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahiiru&label=TOTAL+PROFILE+VIEWS&color=FFB7C5&style=for-the-badge&labelColor=0D0021" alt="profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiiru&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
