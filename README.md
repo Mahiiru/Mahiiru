@@ -63,10 +63,24 @@ hobbies  : Coding · Tech · Open Source
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahiiru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiiru&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahiiru&theme=tokyo-night&hide_border=true&bg_color=0D0021&color=FFB7C5&line=FF8FAB&point=C9B8FF&area=true&area_color=2D0E3E" width="100%"/>
 </div>
 
 ---
@@ -159,6 +173,12 @@ hobbies  : Coding · Tech · Open Source
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahiiru&label=VISITORS&color=00ffe7&style=for-the-badge&labelColor=0f0c29" alt="profile views"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 <br/>
