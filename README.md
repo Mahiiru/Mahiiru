@@ -40,10 +40,12 @@ learning : Advanced Systems Programming
 hobbies  : Coding · Tech · Open Source
 ```
 
-- 🔭 Working on — **Advanced IoT & Embedded Systems**
-- 🌱 Deepening — **Go · C++ · JavaScript**
-- 💬 Ask me — **IoT · Go · C++ · Any Tech Topics**
-- ⚡ Building where **Physical meets Digital**
+```
+🔭  Working on  —  Advanced IoT & Embedded Systems
+🌱  Deepening   —  Go · C++ · JavaScript
+💬  Ask me      —  IoT · Go · C++ · Any Tech Topics
+⚡  Building where Physical meets Digital
+```
 
 <br clear="right"/>
 
@@ -61,15 +63,10 @@ hobbies  : Coding · Tech · Open Source
 
 ---
 
-## 📊 GitHub Stats
+## 👁️ Profile Views
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahiiru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiiru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiiru&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahiiru&label=TOTAL+PROFILE+VIEWS&color=FFB7C5&style=for-the-badge&labelColor=0D0021" alt="profile views"/>
 </div>
 
 ---
