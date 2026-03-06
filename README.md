@@ -40,10 +40,10 @@ learning : Advanced Systems Programming
 hobbies  : Coding · Tech · Open Source
 ```
 
-🔭 Working on — **Advanced IoT & Embedded Systems**
-🌱 Deepening — **Go · C++ · JavaScript**
-💬 Ask me — **IoT · Go · C++ · Any Tech Topics**
-⚡ Building where **Physical meets Digital**
+- 🔭 Working on — **Advanced IoT & Embedded Systems**
+- 🌱 Deepening — **Go · C++ · JavaScript**
+- 💬 Ask me — **IoT · Go · C++ · Any Tech Topics**
+- ⚡ Building where **Physical meets Digital**
 
 <br clear="right"/>
 
