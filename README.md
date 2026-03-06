@@ -63,10 +63,10 @@ hobbies  : Coding · Tech · Open Source
 
 ---
 
-## 🏆 Trophies
+## 🌸 3D Contribution
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahiiru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/main/profile-3d-contrib/profile-season-animate.svg" width="100%"/>
 </div>
 
 ---
