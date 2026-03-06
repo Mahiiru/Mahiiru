@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D0021,50:2D0E3E,100:1A0030&height=200&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=65&fontColor=FFB7C5&animation=twinkling&fontAlignY=42&stroke=FF8FAB&strokeWidth=2&desc=%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A%20%E2%80%94%20%E4%BD%9C%E3%82%8A%E3%80%81%E5%AD%A6%E3%81%B3%E3%80%81%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%80%82&descAlignY=70&descSize=18&descColor=C9B8FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D0021,50:2D0E3E,100:1A0030&height=200&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=65&fontColor=FFB7C5&animation=twinkling&fontAlignY=33&stroke=FF8FAB&strokeWidth=2&desc=%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A%20%E2%80%94%20%E4%BD%9C%E3%82%8A%E3%80%81%E5%AD%A6%E3%81%B3%E3%80%81%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%80%82&descAlignY=57&descSize=18&descColor=C9B8FF" width="100%"/>
 </div>
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/main/mahiru-shiina.gif" alt="mahiru-shiina" width="380"/>
+  <img src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/main/mahiru-shiina.gif" alt="mahiru-shiina" width="680"/>
 </div>
 
 <br/>
