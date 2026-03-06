@@ -29,19 +29,29 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<div align="center">
 
-```yaml
-name     : Mahiiru
-location : Indonesia 🇮🇩
-role     : IoT Engineer & Full Stack Developer
-focus    : Go · C++ · JavaScript · IoT
-learning : Advanced Systems Programming
-hobbies  : Coding · Tech · Open Source
-```
+| | |
+|:---:|:---|
+| 🏯 | **Mahiiru** — 正午 *(Seishō / Noon)* |
+| 🌏 | Indonesia 🇮🇩 — Online 24/7 |
+| ⚙️ | IoT Engineer · Full Stack Developer |
+| 🔥 | Go · C++ · JavaScript · Embedded Systems |
+| 📖 | Advanced Systems Programming |
+| 🎌 | Coding · Open Source · Building real things |
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=FFB7C5&background=00000000&center=false&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%94%AD+Working+on+%E2%80%94+Advanced+IoT+%26+Embedded+Systems;%F0%9F%8C%B1+Deepening+%E2%80%94+Go+%C2%B7+C%2B%2B+%C2%B7+JavaScript;%F0%9F%92%AC+Ask+me+%E2%80%94+IoT+%C2%B7+Go+%C2%B7+C%2B%2B+%C2%B7+Any+Tech+Topics;%E2%9A%A1+Building+where+Physical+meets+Digital." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=FFB7C5&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=750&height=40&lines=%F0%9F%94%AD+Working+on+%E2%80%94+Advanced+IoT+%26+Embedded+Systems;%F0%9F%8C%B1+Deepening+%E2%80%94+Go+%C2%B7+C%2B%2B+%C2%B7+JavaScript;%F0%9F%92%AC+Ask+me+%E2%80%94+IoT+%C2%B7+Go+%C2%B7+C%2B%2B+%C2%B7+Any+Tech+Topics;%E2%9A%A1+Building+where+Physical+meets+Digital." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahiiru&theme=tokyo-night&hide_border=true&bg_color=0D0021&color=FFB7C5&line=FF8FAB&point=C9B8FF&area=true&area_color=2D0E3E" width="100%"/>
 </div>
 
 <br clear="right"/>
