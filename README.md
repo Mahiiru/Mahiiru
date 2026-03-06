@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=55&fontColor=00ffe7&animation=blink&fontAlignY=45&stroke=00ffe7&strokeWidth=1&desc=while(alive)%20%7B%20build()%3B%20learn()%3B%20repeat()%3B%20%7D&descAlignY=68&descSize=16&descColor=cc00ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D0021,50:2D0E3E,100:1A0030&height=280&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=65&fontColor=FFB7C5&animation=twinkling&fontAlignY=42&stroke=FF8FAB&strokeWidth=2&desc=%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A%20%E2%80%94%20%E4%BD%9C%E3%82%8A%E3%80%81%E5%AD%A6%E3%81%B3%E3%80%81%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%80%82&descAlignY=70&descSize=18&descColor=C9B8FF" width="100%"/>
 </div>
 
 
@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FFE7&background=0D111700&center=true&vCenter=true&random=false&width=650&height=45&lines=%5BSYS%5D+Initializing+Mahiiru.exe...+%E2%9C%93;%5BLOC%5D+Indonesia+%F0%9F%87%AE%F0%9F%87%A9+%2F%2F+Online+24%2F7;%5BSKL%5D+Go+%7C+C%2B%2B+%7C+IoT+%7C+Full+Stack;%5BSTS%5D+Always+shipping%2C+never+sleeping+%F0%9F%9A%80;%5BMSG%5D+Hardware+meets+Software.+That's+me." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=20&pause=900&color=FFB7C5&background=00000000&center=true&vCenter=true&random=false&width=700&height=50&lines=%E6%AD%A3%E5%8D%88+%E2%80%94+%E5%BD%B1%E3%81%AA%E3%81%8D%E5%88%BB%E3%80%81%E3%81%9F%E3%81%A0%E5%89%8D%E3%81%B8%E3%80%82;%5BLOC%5D+Indonesia+%F0%9F%87%AE%F0%9F%87%A9+%2F%2F+%E5%B8%B8%E6%99%82%E7%A8%BC%E5%83%8D%E4%B8%AD;%5BSKL%5D+Go+%C2%B7+C%2B%2B+%C2%B7+IoT+%C2%B7+Full+Stack;%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%E2%80%94+%E4%BD%9C%E3%82%8A%E3%80%81%E5%AD%A6%E3%81%B3%E3%80%81%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%80%82;Hardware+meets+Software.+%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%95%E3%80%82" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -173,5 +173,5 @@ hobbies  : Coding · Tech · Open Source
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=blink&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1A0030,50:2D0E3E,100:0D0021&height=150&section=footer&animation=twinkling&reversal=true" width="100%"/>
 </div>
