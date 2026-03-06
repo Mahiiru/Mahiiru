@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D0021,50:2D0E3E,100:1A0030&height=280&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=65&fontColor=FFB7C5&animation=twinkling&fontAlignY=42&stroke=FF8FAB&strokeWidth=2&desc=%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A%20%E2%80%94%20%E4%BD%9C%E3%82%8A%E3%80%81%E5%AD%A6%E3%81%B3%E3%80%81%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%80%82&descAlignY=70&descSize=18&descColor=C9B8FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D0021,50:2D0E3E,100:1A0030&height=200&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=65&fontColor=FFB7C5&animation=twinkling&fontAlignY=42&stroke=FF8FAB&strokeWidth=2&desc=%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A%20%E2%80%94%20%E4%BD%9C%E3%82%8A%E3%80%81%E5%AD%A6%E3%81%B3%E3%80%81%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99%E3%80%82&descAlignY=70&descSize=18&descColor=C9B8FF" width="100%"/>
 </div>
 
 
@@ -40,10 +40,9 @@ learning : Advanced Systems Programming
 hobbies  : Coding · Tech · Open Source
 ```
 
-- 🔭 Currently working on **advanced IoT & embedded systems**
-- 🌱 Deepening expertise in **Go, C++, and JavaScript**
-- 💬 Ask me about **IoT Engineering, Go, C++, or any tech topics**
-- ⚡ Fun fact: I love building things that connect the physical and digital world
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=FFB7C5&background=00000000&center=false&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%94%AD+Working+on+%E2%80%94+Advanced+IoT+%26+Embedded+Systems;%F0%9F%8C%B1+Deepening+%E2%80%94+Go+%C2%B7+C%2B%2B+%C2%B7+JavaScript;%F0%9F%92%AC+Ask+me+%E2%80%94+IoT+%C2%B7+Go+%C2%B7+C%2B%2B+%C2%B7+Any+Tech+Topics;%E2%9A%A1+Building+where+Physical+meets+Digital." alt="Typing SVG" />
+</div>
 
 <br clear="right"/>
 
