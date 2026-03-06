@@ -1,15 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mahiiru&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=%E6%AD%A3%E5%8D%88%20%7C%20Mahiiru&fontSize=55&fontColor=00ffe7&animation=blink&fontAlignY=45&stroke=00ffe7&strokeWidth=1&desc=while(alive)%20%7B%20build()%3B%20learn()%3B%20repeat()%3B%20%7D&descAlignY=68&descSize=16&descColor=cc00ff" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/main/mahiru-shiina.gif" alt="mahiru-shiina" width="400"/>
+
+```
+███╗   ███╗ █████╗ ██╗  ██╗██╗██╗██╗██╗   ██╗
+████╗ ████║██╔══██╗██║  ██║██║██║██║██║   ██║
+██╔████╔██║███████║███████║██║██║██║██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██║██║██║██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║██║██║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝╚═╝ ╚═════╝ 
+```
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/main/mahiru-shiina.gif" alt="mahiru-shiina" width="380"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Mahiiru!+%F0%9F%91%8B;IoT+Engineer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Full+Stack+Developer+%7C+Go+%7C+C%2B%2B;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FFE7&background=0D111700&center=true&vCenter=true&random=false&width=650&height=45&lines=%5BSYS%5D+Initializing+Mahiiru.exe...+%E2%9C%93;%5BLOC%5D+Indonesia+%F0%9F%87%AE%F0%9F%87%A9+%2F%2F+Online+24%2F7;%5BSKL%5D+Go+%7C+C%2B%2B+%7C+IoT+%7C+Full+Stack;%5BSTS%5D+Always+shipping%2C+never+sleeping+%F0%9F%9A%80;%5BMSG%5D+Hardware+meets+Software.+That's+me." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%E3%80%90%E6%AD%A3%E5%8D%88%E3%80%91_MAHIIRU-00ffe7?style=for-the-badge&labelColor=0f0c29&color=302b63&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmZlNyIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6bTAgLTVsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=" alt="Mahiiru"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=00ff88"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MODE-BUILD%20%26%20LEARN-cc00ff?style=for-the-badge&labelColor=0f0c29&logo=rocket&logoColor=cc00ff"/>
 </div>
 
 <br/>
@@ -150,11 +173,17 @@ hobbies  : Coding · Tech · Open Source
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahiiru&label=Profile%20Views&color=667eea&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahiiru&label=VISITORS&color=00ffe7&style=for-the-badge&labelColor=0f0c29" alt="profile views"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&animation=twinkling" width="100%"/>
+  <sub>「 正午 — when the sun is at its peak, there are no shadows. Just clarity and momentum. 」</sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=blink&reversal=true" width="100%"/>
 </div>
