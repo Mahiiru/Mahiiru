@@ -40,9 +40,10 @@ learning : Advanced Systems Programming
 hobbies  : Coding · Tech · Open Source
 ```
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=FFB7C5&background=00000000&center=false&vCenter=true&random=false&width=700&height=40&lines=%F0%9F%94%AD+Working+on+%E2%80%94+Advanced+IoT+%26+Embedded+Systems;%F0%9F%8C%B1+Deepening+%E2%80%94+Go+%C2%B7+C%2B%2B+%C2%B7+JavaScript;%F0%9F%92%AC+Ask+me+%E2%80%94+IoT+%C2%B7+Go+%C2%B7+C%2B%2B+%C2%B7+Any+Tech+Topics;%E2%9A%A1+Building+where+Physical+meets+Digital." alt="Typing SVG" />
-</div>
+🔭 Working on — **Advanced IoT & Embedded Systems**
+🌱 Deepening — **Go · C++ · JavaScript**
+💬 Ask me — **IoT · Go · C++ · Any Tech Topics**
+⚡ Building where **Physical meets Digital**
 
 <br clear="right"/>
 
