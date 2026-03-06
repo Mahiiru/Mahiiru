@@ -32,7 +32,6 @@ hobbies  : Coding · Tech · Open Source
 - 🔭 Currently working on **advanced IoT & embedded systems**
 - 🌱 Deepening expertise in **Go, C++, and JavaScript**
 - 💬 Ask me about **IoT Engineering, Go, C++, or any tech topics**
-- 📫 Reach me at **asepharyana71@gmail.com**
 - ⚡ Fun fact: I love building things that connect the physical and digital world
 
 <br clear="right"/>
