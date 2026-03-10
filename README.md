@@ -55,9 +55,9 @@ hobbies  : Coding · Tech · Open Source
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://snake-inky.vercel.app/api/snake?username=Mahiiru&palette=github-dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://snake-inky.vercel.app/api/snake?username=Mahiiru"/>
-    <img alt="github contribution grid snake animation" src="https://snake-inky.vercel.app/api/snake?username=Mahiiru"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahiiru/Mahiiru/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
