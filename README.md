@@ -71,11 +71,7 @@ hobbies  : Coding · Tech · Open Source
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mahiiru&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
 
 
 
