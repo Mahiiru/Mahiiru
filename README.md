@@ -34,7 +34,8 @@
 ```yaml
 name     : Mahiiru
 location : Indonesia 🇮🇩
-role     : IoT Engineer & Full Stack Developer
+role     : IoT Engineer . Full Stack Developer . DevOps . System Administrator . Linux Developer
+os       : Linux . MacOS . Unix . Windows 
 focus    : Go · C++ · JavaScript · IoT
 learning : Advanced Systems Programming
 hobbies  : Coding · Tech · Open Source
